@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/JarredAllen/unordered-n-tuple-rust/commit/ada6269b0213936ece34358424f003cddd4f6be3\"><strong>a</strong>da6269b0213936ece34358424f003cddd4f6be3</a>",
+    "body": "- <a href=\"https://github.com/JarredAllen/wordle-assist/commit/aa6f7eca16e76b65a75345081604ee221b050c12\"><strong>a</strong>a6f7eca16e76b65a75345081604ee221b050c12</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
   },
   {
@@ -31,7 +31,7 @@
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/25836d92998635c6ed27d0a3c675602f164edb11\">25836d9</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/a76a82ce1978b8929bc92b6520469ebaf9f32211\">a76a82c</a>\n- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/533e04d8060e7405789f891698650fc97ebd6f51\">533e04d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2022/commit/bf0f068321a674034305939e99a511f4250d7550\">bf0f068</a>\n- <a href=\"https://github.com/JarredAllen/number-theory-programs/commit/4954f3020ca06bd0b211c2b28d81944f8702d768\">4954f30</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/25836d92998635c6ed27d0a3c675602f164edb11\">25836d9</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/a76a82ce1978b8929bc92b6520469ebaf9f32211\">a76a82c</a>\n- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/533e04d8060e7405789f891698650fc97ebd6f51\">533e04d</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
   },
   {
@@ -115,7 +115,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 280 times)\n2. the (used 263 times)\n3. of (used 137 times)\n4. a (used 129 times)\n5. for (used 117 times)",
+    "body": "My favorite commit message words are:\n\n1. to (used 286 times)\n2. the (used 268 times)\n3. of (used 140 times)\n4. a (used 132 times)\n5. add (used 128 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {

@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/JarredAllen/unordered-n-tuple-rust/commit/ada6269b0213936ece34358424f003cddd4f6be3"><strong>a</strong>da6269b0213936ece34358424f003cddd4f6be3</a>
+- <a href="https://github.com/JarredAllen/wordle-assist/commit/aa6f7eca16e76b65a75345081604ee221b050c12"><strong>a</strong>a6f7eca16e76b65a75345081604ee221b050c12</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
