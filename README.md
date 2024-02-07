@@ -25,6 +25,7 @@ source: [`github-stats`](https://github.com/jstrieb/github-stats)
 <a href="my-badges/public-keys-5.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
+<a href="my-badges/public-keys-4.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-4.png?raw=true" alt="I have four public keys" title="I have four public keys" width="64"></a>
 <!-- my-badges end -->
 
 <!--
