@@ -152,5 +152,12 @@
     "desc": "I closed an issue that was open for 2 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/rust-embedded/riscv/issues/97\">#97</a>: `riscv`: Linking fails when using this crate as a dependency",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-2.png?raw=true"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-3.png?raw=true"
   }
 ]
