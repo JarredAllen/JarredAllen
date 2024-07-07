@@ -4,105 +4,105 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/JarredAllen/wordle-assist/commit/aa6f7eca16e76b65a75345081604ee221b050c12\"><strong>a</strong>a6f7eca16e76b65a75345081604ee221b050c12</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/abdf5aff16d4b5ffbfe3e20a11af197d42a30dfd\"><strong>ab</strong>df5aff16d4b5ffbfe3e20a11af197d42a30dfd</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/chess/commit/3ffebf8b366a142a09ec885128dce9936be28f39\">3ffebf8</a>\n- <a href=\"https://github.com/JarredAllen/chess/commit/6aba899117835711f4f9d3e247b62ae68fe15f85\">6aba899</a>\n- <a href=\"https://github.com/JarredAllen/chess/commit/a7f8c73590ebb01a595c8d014c715325352ab1d2\">a7f8c73</a>\n- <a href=\"https://github.com/JarredAllen/mqtt-async-client-rs/commit/792f03614745672554c7779e356233e22859320b\">792f036</a>\n- <a href=\"https://github.com/JarredAllen/crafting-interpreters-mycode/commit/f88b84bf0b881c40dc78ff05a11358f891f3d237\">f88b84b</a>\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/8ef6d09821f6a0e2cdf0055c24e6f3d14a46ce46\">8ef6d09</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/JarredAllen/commit/ca723f6c9eb260210ead7bf087bf8c2882c1b76a\">ca723f6</a>\n- <a href=\"https://github.com/JarredAllen/JarredAllen/commit/9efad10df3bfc76afbb5d28dad6894ab0d99ace4\">9efad10</a>\n- <a href=\"https://github.com/JarredAllen/JarredAllen/commit/4eace6a193d722e26d2777ba8e092a4085931942\">4eace6a</a>\n- <a href=\"https://github.com/JarredAllen/prime-combination-connections/commit/419f76443b572337906326c16c5188f5656eb18b\">419f764</a>\n- <a href=\"https://github.com/JarredAllen/chess/commit/70484b9186d373a628512c2e6b70ec16bc12bcdc\">70484b9</a>\n- <a href=\"https://github.com/JarredAllen/chess/commit/b6ff461ee099734aaa7921f4fb37606e66dbe4c5\">b6ff461</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2022/commit/bf0f068321a674034305939e99a511f4250d7550\">bf0f068</a>\n- <a href=\"https://github.com/JarredAllen/number-theory-programs/commit/4954f3020ca06bd0b211c2b28d81944f8702d768\">4954f30</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/25836d92998635c6ed27d0a3c675602f164edb11\">25836d9</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/a76a82ce1978b8929bc92b6520469ebaf9f32211\">a76a82c</a>\n- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/533e04d8060e7405789f891698650fc97ebd6f51\">533e04d</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/midnight-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/github-anniversary/github-anniversary-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" once.",
     "body": "- <a href=\"https://github.com/JarredAllen/crafting-interpreters-mycode/commit/c829a6dd7403b1b8c77fadae6444765cdedead86\">c829a6dd7403b1b8c77fadae6444765cde<strong>dead</strong>86</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/dead-commit/dead-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/chess/commit/cd486769ec0b3e42e82de98636cd17c9a1e95840\">cd48676</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/chess/commit/cd486769ec0b3e42e82de98636cd17c9a1e95840\">cd48676</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "revert-revert-commit",
     "tier": 0,
     "desc": "I reverted a revert commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/4e12ceffe0ad0e13644fb5558272131586c45ad6\">4e12cef</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/revert-revert-commit/revert-revert-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/7bba232b9a5291e165bfd0aed63c4764b9f9cf04\">7bba232</a>: Fix formatting and clippy suggestions\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/4ffc86c571f387880d368bebd91f73f488ba3530\">4ffc86c</a>: Fix rendering of cutscene text",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-2.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/8d5a1344a6ba6151626d71bb46ac7d54c74c2410\">8d5a134</a>: Fix player prefab error\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/a123770c5a027474a9cc57fe4be336e65d5bc4df\">a123770</a>: Fix formatting\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/32e44eaa1edf31a5516c4ee02960069d42b76723\">32e44ea</a>: Fix borrow checker and aliasing errors in mud system",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-3.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/mqtt-async-client-rs/commit/9cc811f68f4a3c9059165aa423c9208bee9e8683\">9cc811f</a>: Fix intermittent error message on some connections\n\nThe library was logging an error on some messages being sent which\ndidn't listen for a response packet, so this change avoids that\nerror being logged.\n- <a href=\"https://github.com/JarredAllen/mqtt-async-client-rs/commit/1c2e8717699742ff59d97dbd9c55d07ac442bc85\">1c2e871</a>: Fix compile error if used without features\n- <a href=\"https://github.com/JarredAllen/mqtt-async-client-rs/commit/3ed7b3f92bf6d3dc0545db5a6476bf8b49b150ff\">3ed7b3f</a>: Fix issue that slipped into integration test\n- <a href=\"https://github.com/JarredAllen/mqtt-async-client-rs/commit/0731e7cd4dcb8742acb4f1f97a510e4396f86fdc\">0731e7c</a>: Fix port being placed in the wrong location",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-4.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/rust-lang/rust-clippy/pull/5837\">#5837</a>: needless_collect: catch x: Vec<_> = iter.collect(); x.into_iter() ...",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
     "id": "public-keys-5",
@@ -116,14 +116,14 @@
     "tier": 0,
     "desc": "My favorite word is \"to\".",
     "body": "My favorite commit message words are:\n\n1. to (used 290 times)\n2. the (used 268 times)\n3. of (used 140 times)\n4. add (used 131 times)\n5. for (used 127 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/rust-lang/rust-clippy/issues/5605\">#5605</a>: Addressing dynamic slices with unknown size\n- <a href=\"https://github.com/MarioSchwalbe/homebrew-gcc-musl-cross/issues/3\">#3</a>: Internal Compiler Error when trying to install\n- <a href=\"https://github.com/diballesteros/nuzlocke/issues/532\">#532</a>: Feature Request: Button to clear builder and add all party/box pokemon in one click\n- <a href=\"https://github.com/rust-lang/rust/issues/98948\">#98948</a>: Non-descriptive error when building something which requires alloc on a platform which doesn't have it\n- <a href=\"https://github.com/sharkdp/bat/issues/2395\">#2395</a>: Line-based movement matches line numbers as displayed in output, not numbers from original file\n\n And many more...",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/polite-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
     "id": "public-keys-4",
@@ -137,34 +137,34 @@
     "tier": 3,
     "desc": "I closed an issue that was open for 3 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/rust-lang/rust-clippy/issues/5923\">#5923</a>: Suggest Option::ok_or{,_else}",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/old-issue/old-issue-3.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/652e2e44076924848699183a6ccf755f9513ea92\">652e2e4</a>\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/f71aee995e98356e63fb9f3e90e0e64ceeb3fb13\">f71aee9</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/sleepy-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "old-issue-2",
     "tier": 2,
     "desc": "I closed an issue that was open for 2 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/rust-embedded/riscv/issues/97\">#97</a>: `riscv`: Linking fails when using this crate as a dependency",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/old-issue/old-issue-2.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   },
   {
     "id": "public-keys-3",
     "tier": 3,
     "desc": "I have three public keys",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-3.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/bit-struct/commit/e086ea6f0b3289dd486307274a12489a23cc8652\">e086ea6</a>\n- <a href=\"https://github.com/JarredAllen/chess/commit/54b3a3bf1566aa2efd20ac23b6e77db745075306\">54b3a3b</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/epic-commit/epic-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
