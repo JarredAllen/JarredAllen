@@ -6,9 +6,9 @@ My favorite commit message words are:
 
 1. to (used 317 times)
 2. the (used 298 times)
-3. of (used 147 times)
-4. add (used 143 times)
-5. for (used 135 times)
+3. of (used 148 times)
+4. add (used 144 times)
+5. for (used 136 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
