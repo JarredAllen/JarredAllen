@@ -180,5 +180,12 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/JarredAllen/rust-locks/pull/1\">#1</a>: Add running tests under `miri` to workflow",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/dotfiles/commit/855853e87aaaaa511825b461a46a4bd355b57d56\">855853e</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
