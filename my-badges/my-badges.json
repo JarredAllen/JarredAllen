@@ -194,5 +194,12 @@
     "desc": "I have received a lot of thumbs up 👍 reactions!",
     "body": "- [24 thumbs ups](https://github.com/rust-lang/cargo/issues/11354)\n- [15 thumbs ups](https://github.com/rust-lang/rfcs/pull/3442)\n- [6 thumbs ups](https://github.com/rust-lang/rfcs/pull/2887#issuecomment-2187402677)\n- [5 thumbs ups](https://github.com/rust-lang/rfcs/pull/3546#issuecomment-1872245777)\n- [5 thumbs ups](https://github.com/rust-lang/rfcs/pull/3639#issuecomment-2128190481)\n- [4 thumbs ups](https://github.com/rust-lang/rust-clippy/issues/11933)\n- [4 thumbs ups](https://github.com/rust-lang/rust/issues/83527#issuecomment-1440945012)\n- [4 thumbs ups](https://github.com/rust-lang/rfcs/pull/3639#issuecomment-2140272980)\n- [3 thumbs ups](https://github.com/gyscos/zstd-rs/issues/229)\n- [2 thumbs ups](https://github.com/koalaman/shellcheck/issues/2474)",
     "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/rust-lang/cargo/issues/11354\">24 👍</a>\n* <a href=\"https://github.com/rust-lang/rfcs/pull/3442\">15 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
