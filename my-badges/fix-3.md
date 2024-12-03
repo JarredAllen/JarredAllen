@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/8d5a1344a6ba6151626d71bb46ac7d54c74c2410">8d5a134</a>: Fix player prefab error
-- <a href="https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/a123770c5a027474a9cc57fe4be336e65d5bc4df">a123770</a>: Fix formatting
-- <a href="https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/32e44eaa1edf31a5516c4ee02960069d42b76723">32e44ea</a>: Fix borrow checker and aliasing errors in mud system
+- <a href="https://github.com/JarredAllen/sqlite-riir/commit/0e6a393e43ab2a0112c27e481428e99948b74765">0e6a393</a>: Fix token for clippy action
+- <a href="https://github.com/JarredAllen/sqlite-riir/commit/e0c9c6a3ff82575b076f80485881b530b9a605e6">e0c9c6a</a>: Fix YAML errors in rust.yml
+- <a href="https://github.com/JarredAllen/sqlite-riir/commit/0c8477c03dce77ae2cf0dcb590afba1b0465b61f">0c8477c</a>: Fix broken clippy action
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/JarredAllen/wordle-assist/commit/aa6f7eca16e76b65a75345081604ee221b050c12\"><strong>a</strong>a6f7eca16e76b65a75345081604ee221b050c12</a>",
+    "body": "- <a href=\"https://github.com/JarredAllen/Calculator-Web-Server/commit/af090d81fdcc6c2cd6473afc9447760c25e1ce4d\"><strong>a</strong>f090d81fdcc6c2cd6473afc9447760c25e1ce4d</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -73,14 +73,14 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/7bba232b9a5291e165bfd0aed63c4764b9f9cf04\">7bba232</a>: Fix formatting and clippy suggestions\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/4ffc86c571f387880d368bebd91f73f488ba3530\">4ffc86c</a>: Fix rendering of cutscene text",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/chess/commit/1abb0464c2a07e79614f6b85d1ab3e05063ab6fe\">1abb046</a>: Fix bug in bishop blocker bitboard generation\n- <a href=\"https://github.com/JarredAllen/chess/commit/b6ff461ee099734aaa7921f4fb37606e66dbe4c5\">b6ff461</a>: Fix bugs/lints in rook magic bitboards",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/8d5a1344a6ba6151626d71bb46ac7d54c74c2410\">8d5a134</a>: Fix player prefab error\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/a123770c5a027474a9cc57fe4be336e65d5bc4df\">a123770</a>: Fix formatting\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/32e44eaa1edf31a5516c4ee02960069d42b76723\">32e44ea</a>: Fix borrow checker and aliasing errors in mud system",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/sqlite-riir/commit/0e6a393e43ab2a0112c27e481428e99948b74765\">0e6a393</a>: Fix token for clippy action\n- <a href=\"https://github.com/JarredAllen/sqlite-riir/commit/e0c9c6a3ff82575b076f80485881b530b9a605e6\">e0c9c6a</a>: Fix YAML errors in rust.yml\n- <a href=\"https://github.com/JarredAllen/sqlite-riir/commit/0c8477c03dce77ae2cf0dcb590afba1b0465b61f\">0c8477c</a>: Fix broken clippy action",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -105,13 +105,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
-    "id": "public-keys-5",
-    "tier": 5,
-    "desc": "I have five or more public keys",
-    "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true"
-  },
-  {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
@@ -126,20 +119,6 @@
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
-    "id": "public-keys-4",
-    "tier": 4,
-    "desc": "I have four public keys",
-    "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-4.png?raw=true"
-  },
-  {
-    "id": "old-issue-3",
-    "tier": 3,
-    "desc": "I closed an issue that was open for 3 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/rust-lang/rust-clippy/issues/5923\">#5923</a>: Suggest Option::ok_or{,_else}",
-    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
-  },
-  {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
@@ -147,24 +126,10 @@
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/rust-embedded/riscv/issues/97\">#97</a>: `riscv`: Linking fails when using this crate as a dependency",
-    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
-  },
-  {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
-  },
-  {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/bit-struct/commit/e086ea6f0b3289dd486307274a12489a23cc8652\">e086ea6</a>\n- <a href=\"https://github.com/JarredAllen/chess/commit/54b3a3bf1566aa2efd20ac23b6e77db745075306\">54b3a3b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/chess/commit/54b3a3bf1566aa2efd20ac23b6e77db745075306\">54b3a3b</a>\n- <a href=\"https://github.com/JarredAllen/bit-struct/commit/e086ea6f0b3289dd486307274a12489a23cc8652\">e086ea6</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -189,17 +154,17 @@
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
-    "id": "thumbs-up",
-    "tier": 0,
-    "desc": "I have received a lot of thumbs up 👍 reactions!",
-    "body": "- [24 thumbs ups](https://github.com/rust-lang/cargo/issues/11354)\n- [15 thumbs ups](https://github.com/rust-lang/rfcs/pull/3442)\n- [6 thumbs ups](https://github.com/rust-lang/rfcs/pull/2887#issuecomment-2187402677)\n- [5 thumbs ups](https://github.com/rust-lang/rfcs/pull/3546#issuecomment-1872245777)\n- [5 thumbs ups](https://github.com/rust-lang/rfcs/pull/3639#issuecomment-2128190481)\n- [4 thumbs ups](https://github.com/rust-lang/rust-clippy/issues/11933)\n- [4 thumbs ups](https://github.com/rust-lang/rust/issues/83527#issuecomment-1440945012)\n- [4 thumbs ups](https://github.com/rust-lang/rfcs/pull/3639#issuecomment-2140272980)\n- [3 thumbs ups](https://github.com/gyscos/zstd-rs/issues/229)\n- [2 thumbs ups](https://github.com/koalaman/shellcheck/issues/2474)",
-    "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
-  },
-  {
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/rust-lang/cargo/issues/11354\">24 👍</a>\n* <a href=\"https://github.com/rust-lang/rfcs/pull/3442\">15 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/issues/1\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   }
 ]
