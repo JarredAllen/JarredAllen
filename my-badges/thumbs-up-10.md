@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/rust-lang/cargo/issues/11354">27 👍</a>
+* <a href="https://github.com/rust-lang/cargo/issues/11354">28 👍</a>
 * <a href="https://github.com/rust-lang/rfcs/pull/3442">16 👍</a>
 
 
