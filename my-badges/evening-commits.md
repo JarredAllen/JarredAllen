@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/JarredAllen/factorio-scrap-no-solid-fuel/commit/15ce94e1d3a6072ba972bf75519dfb8c9c9b8e7f">15ce94e</a>
+- <a href="https://github.com/JarredAllen/factorio-scrap-no-solid-fuel/commit/b2df13826b51014b480d6f72998001f99dc7cbb2">b2df138</a>
 - <a href="https://github.com/JarredAllen/dotfiles/commit/e00e03719dbd67de6bad17a4b1567f8c477f3c36">e00e037</a>
 - <a href="https://github.com/JarredAllen/JarredAllen/commit/ca723f6c9eb260210ead7bf087bf8c2882c1b76a">ca723f6</a>
 - <a href="https://github.com/JarredAllen/JarredAllen/commit/9efad10df3bfc76afbb5d28dad6894ab0d99ace4">9efad10</a>
 - <a href="https://github.com/JarredAllen/JarredAllen/commit/4eace6a193d722e26d2777ba8e092a4085931942">4eace6a</a>
-- <a href="https://github.com/JarredAllen/prime-combination-connections/commit/419f76443b572337906326c16c5188f5656eb18b">419f764</a>
-- <a href="https://github.com/JarredAllen/chess/commit/70484b9186d373a628512c2e6b70ec16bc12bcdc">70484b9</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
