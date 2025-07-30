@@ -6,9 +6,9 @@ I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/rust-lang/rust-clippy/issues/5605">#5605</a>: Addressing dynamic slices with unknown size
 - <a href="https://github.com/MarioSchwalbe/homebrew-gcc-musl-cross/issues/3">#3</a>: Internal Compiler Error when trying to install
-- <a href="https://github.com/diballesteros/nuzlocke/issues/532">#532</a>: Feature Request: Button to clear builder and add all party/box pokemon in one click
 - <a href="https://github.com/rust-lang/rust/issues/98948">#98948</a>: Non-descriptive error when building something which requires alloc on a platform which doesn't have it
 - <a href="https://github.com/sharkdp/bat/issues/2395">#2395</a>: Line-based movement matches line numbers as displayed in output, not numbers from original file
+- <a href="https://github.com/rust-lang/rust-clippy/issues/5268">#5268</a>: Dead Links in CONTRIBUTING.md and other resources
 
  And many more...
 
