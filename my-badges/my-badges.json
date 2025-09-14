@@ -173,5 +173,12 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/my-badges/commit/1d0e24d1fe51063f3c92ca4e67504b813d49a202\">1d0e24d</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/19b30cccd61e6b8d1ff722f9d62f9dbfcdd5a8ec\">19b30cc</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/a436402261fb7cb07cad3de0ca740f569dc5ed31\">a436402</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/c3f0436bb674d895310fd5dcf4927856587afdef\">c3f0436</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/6af44773e169a8625401b448db3d3ad52f17fdf4\">6af4477</a>\n- <a href=\"https://github.com/JarredAllen/French-Verb-Conjugator-Bot/commit/05c75dcbb937efee18228af462be19cd8b831782\">05c75dc</a>\n- <a href=\"https://github.com/JarredAllen/French-Verb-Conjugator-Bot/commit/10b4680e57ddc8362078e01ab5663f9fc547a6de\">10b4680</a>\n- <a href=\"https://github.com/JarredAllen/French-Verb-Conjugator-Bot/commit/586a539b836909ecda34c72a2fddf62e3cfa993c\">586a539</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/multiagent/commit/382057dfa0c6d350b23fa18d75a56bd71516510c\">382057d</a>\n- <a href=\"https://github.com/JarredAllen/multiagent/commit/9a6a23191c48da313c8d77c452a975acf38edfb0\">9a6a231</a>\n- <a href=\"https://github.com/JarredAllen/multiagent/commit/8ba77edc54465726404a9f0a56c9dd500fea53d9\">8ba77ed</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
