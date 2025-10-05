@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/JarredAllen/rust-os/commit/2ceafe2be0a4371290108d835c5e0ad82ea70972">2ceafe2</a>
+- <a href="https://github.com/JarredAllen/rust-os/commit/7b135ad47244fbd0a34a191adcf7e4442306c895">7b135ad</a>
+- <a href="https://github.com/JarredAllen/rust-os/commit/b670648edff0f5d30462e36d95ac93ff2d9f5474">b670648</a>
+- <a href="https://github.com/JarredAllen/rust-os/commit/800fb067a8307442b66f24272fff441bdb03bc4d">800fb06</a>
 - <a href="https://github.com/JarredAllen/factorio-scrap-no-solid-fuel/commit/15ce94e1d3a6072ba972bf75519dfb8c9c9b8e7f">15ce94e</a>
 - <a href="https://github.com/JarredAllen/factorio-scrap-no-solid-fuel/commit/b2df13826b51014b480d6f72998001f99dc7cbb2">b2df138</a>
-- <a href="https://github.com/JarredAllen/dotfiles/commit/e00e03719dbd67de6bad17a4b1567f8c477f3c36">e00e037</a>
-- <a href="https://github.com/JarredAllen/JarredAllen/commit/ca723f6c9eb260210ead7bf087bf8c2882c1b76a">ca723f6</a>
-- <a href="https://github.com/JarredAllen/JarredAllen/commit/9efad10df3bfc76afbb5d28dad6894ab0d99ace4">9efad10</a>
-- <a href="https://github.com/JarredAllen/JarredAllen/commit/4eace6a193d722e26d2777ba8e092a4085931942">4eace6a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
