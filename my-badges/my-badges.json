@@ -24,14 +24,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/22c52fadaad2acf46cab8fd8c1834322d5f2dcd9\">22c52fa</a>\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/17224ee30224a7bcc40f96e8f564562c9b362e78\">17224ee</a>\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/6751ceffb0f43dde1d20f7dcc9ec13927c14a6e2\">6751cef</a>\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/00cb82643fe81831b4c68bf189e1bba4808cbd75\">00cb826</a>\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/02aba98d73356cb28051f8b6e847fa7c1a2e338f\">02aba98</a>\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/0909cc956a9a976d097abafbf5697109a92a01fb\">0909cc9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/jarss/commit/4820ecf6f89e487593d59f2ed3ea05ee7542dfe0\">4820ecf</a>\n- <a href=\"https://github.com/JarredAllen/jarss/commit/1aeb61899ea5721182d6f51f1255cabbea457f44\">1aeb618</a>\n- <a href=\"https://github.com/JarredAllen/jarss/commit/b4b9670f2c3105112d2903101841ce0dbb56cea2\">b4b9670</a>\n- <a href=\"https://github.com/JarredAllen/jarss/commit/947646089756cf7166d16686d5642adcd05859ff\">9476460</a>\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/22c52fadaad2acf46cab8fd8c1834322d5f2dcd9\">22c52fa</a>\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/17224ee30224a7bcc40f96e8f564562c9b362e78\">17224ee</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2022/commit/bf0f068321a674034305939e99a511f4250d7550\">bf0f068</a>\n- <a href=\"https://github.com/JarredAllen/number-theory-programs/commit/4954f3020ca06bd0b211c2b28d81944f8702d768\">4954f30</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/25836d92998635c6ed27d0a3c675602f164edb11\">25836d9</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/a76a82ce1978b8929bc92b6520469ebaf9f32211\">a76a82c</a>\n- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/533e04d8060e7405789f891698650fc97ebd6f51\">533e04d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/de7328c71cd8d36b9dbdc0bab7252abbaec3f016\">de7328c</a>\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2022/commit/bf0f068321a674034305939e99a511f4250d7550\">bf0f068</a>\n- <a href=\"https://github.com/JarredAllen/number-theory-programs/commit/4954f3020ca06bd0b211c2b28d81944f8702d768\">4954f30</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/25836d92998635c6ed27d0a3c675602f164edb11\">25836d9</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/a76a82ce1978b8929bc92b6520469ebaf9f32211\">a76a82c</a>\n- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/533e04d8060e7405789f891698650fc97ebd6f51\">533e04d</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 175 times)\n2. added (used 70 times)\n3. code (used 65 times)\n4. fix (used 64 times)\n5. commit (used 46 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 176 times)\n2. added (used 70 times)\n3. code (used 67 times)\n4. fix (used 64 times)\n5. commit (used 46 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
