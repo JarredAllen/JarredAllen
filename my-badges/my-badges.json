@@ -140,13 +140,6 @@
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   },
   {
-    "id": "this-is-fine",
-    "tier": 0,
-    "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/JarredAllen/rust-locks/pull/1\">#1</a>: Add running tests under `miri` to workflow",
-    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
