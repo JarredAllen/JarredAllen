@@ -24,7 +24,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2025/commit/c5f030d7ff10bd5b235857f92ae50b17d9317656\">c5f030d</a>\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2025/commit/bb386a89893df4f580e37bd8fe2d4823a57e3150\">bb386a8</a>\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2025/commit/4cc1bcd7d259236eddad38af74b218332da6dd21\">4cc1bcd</a>\n- <a href=\"https://github.com/JarredAllen/color-viewer/commit/ab515b8df5b69db6756c5402ee99228ae37b6397\">ab515b8</a>\n- <a href=\"https://github.com/JarredAllen/color-viewer/commit/f6f1cf2b0d7ca58fa509aad894520ecde3899eec\">f6f1cf2</a>\n- <a href=\"https://github.com/JarredAllen/color-viewer/commit/3cf02845a1efdf1030b4017889f3a69e4d508172\">3cf0284</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2025/commit/281be8281cb3da699fcf98ea317bf1d6f075c8fd\">281be82</a>\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2025/commit/c5f030d7ff10bd5b235857f92ae50b17d9317656\">c5f030d</a>\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2025/commit/bb386a89893df4f580e37bd8fe2d4823a57e3150\">bb386a8</a>\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2025/commit/4cc1bcd7d259236eddad38af74b218332da6dd21\">4cc1bcd</a>\n- <a href=\"https://github.com/JarredAllen/color-viewer/commit/ab515b8df5b69db6756c5402ee99228ae37b6397\">ab515b8</a>\n- <a href=\"https://github.com/JarredAllen/color-viewer/commit/f6f1cf2b0d7ca58fa509aad894520ecde3899eec\">f6f1cf2</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/rust-lang/cargo/issues/11354\">32 👍</a>",
+    "body": "* <a href=\"https://github.com/rust-lang/cargo/issues/11354\">32 👍</a>\n* <a href=\"https://github.com/rust-lang/rfcs/pull/3442\">16 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   },
   {
@@ -166,5 +166,12 @@
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/multiagent/commit/382057dfa0c6d350b23fa18d75a56bd71516510c\">382057d</a>\n- <a href=\"https://github.com/JarredAllen/multiagent/commit/9a6a23191c48da313c8d77c452a975acf38edfb0\">9a6a231</a>\n- <a href=\"https://github.com/JarredAllen/multiagent/commit/8ba77edc54465726404a9f0a56c9dd500fea53d9\">8ba77ed</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/rust-lang/rust-clippy/pull/5837\">#5837</a>: needless_collect: catch x: Vec<_> = iter.collect(); x.into_iter() ...",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   }
 ]

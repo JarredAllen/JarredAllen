@@ -3,6 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/rust-lang/cargo/issues/11354">32 👍</a>
+* <a href="https://github.com/rust-lang/rfcs/pull/3442">16 👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
