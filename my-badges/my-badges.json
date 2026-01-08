@@ -177,7 +177,7 @@
   {
     "id": "alien-day",
     "tier": 0,
-    "desc": "I committed on the day when the crew of the **Nostromo** made their fateful landing and discovered the **Xenomorph** on **LV-426**!",
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
     "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/wordle-assist/commit/d196e29d145c388b3aacc9ccbbcdc31a527fafe2\">d196e29</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
   },
