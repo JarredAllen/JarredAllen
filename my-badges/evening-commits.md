@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/JarredAllen/advent-of-code-2025/commit/c2077758e68f4df92994959320b51c16813a9163">c207775</a>
-- <a href="https://github.com/JarredAllen/advent-of-code-2025/commit/db490457ffddf976013edbdb43dd1af91e4494c8">db49045</a>
-- <a href="https://github.com/JarredAllen/advent-of-code-2025/commit/82b916a0d04fcc81229093ed7bff214bc9b49e76">82b916a</a>
-- <a href="https://github.com/JarredAllen/advent-of-code-2025/commit/281be8281cb3da699fcf98ea317bf1d6f075c8fd">281be82</a>
-- <a href="https://github.com/JarredAllen/advent-of-code-2025/commit/c5f030d7ff10bd5b235857f92ae50b17d9317656">c5f030d</a>
-- <a href="https://github.com/JarredAllen/advent-of-code-2025/commit/bb386a89893df4f580e37bd8fe2d4823a57e3150">bb386a8</a>
+- <a href="https://github.com/JarredAllen/type-signature/commit/72481cbfdb6d607f4804a404b6a687b32098e1da">72481cb</a>
+- <a href="https://github.com/JarredAllen/type-signature/commit/cc6e89d1a839f6b022442203845a4bdb26b160ef">cc6e89d</a>
+- <a href="https://github.com/JarredAllen/type-signature/commit/366e2697b1d014de1cf0e2afe33846bea31e7806">366e269</a>
+- <a href="https://github.com/JarredAllen/type-signature/commit/8febf0e68341009192707209d8705f3f7e1c95cd">8febf0e</a>
+- <a href="https://github.com/JarredAllen/type-signature/commit/d71dabf72a924a9c2d43dad872356eeccc0f40dc">d71dabf</a>
+- <a href="https://github.com/JarredAllen/type-signature/commit/20d57849e05b6d2711bd500d71d98f25c20475f3">20d5784</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
