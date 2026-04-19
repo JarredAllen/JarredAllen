@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/7bba232b9a5291e165bfd0aed63c4764b9f9cf04">7bba232</a>: Fix formatting and clippy suggestions
-- <a href="https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/4ffc86c571f387880d368bebd91f73f488ba3530">4ffc86c</a>: Fix rendering of cutscene text
+- <a href="https://github.com/JarredAllen/chess/commit/1abb0464c2a07e79614f6b85d1ab3e05063ab6fe">1abb046</a>: Fix bug in bishop blocker bitboard generation
+- <a href="https://github.com/JarredAllen/chess/commit/b6ff461ee099734aaa7921f4fb37606e66dbe4c5">b6ff461</a>: Fix bugs/lints in rook magic bitboards
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

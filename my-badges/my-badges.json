@@ -31,7 +31,7 @@
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/de7328c71cd8d36b9dbdc0bab7252abbaec3f016\">de7328c</a>\n- <a href=\"https://github.com/JarredAllen/number-theory-programs/commit/4954f3020ca06bd0b211c2b28d81944f8702d768\">4954f30</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/25836d92998635c6ed27d0a3c675602f164edb11\">25836d9</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/a76a82ce1978b8929bc92b6520469ebaf9f32211\">a76a82c</a>\n- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/533e04d8060e7405789f891698650fc97ebd6f51\">533e04d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/de7328c71cd8d36b9dbdc0bab7252abbaec3f016\">de7328c</a>\n- <a href=\"https://github.com/JarredAllen/advent-of-code-2022/commit/bf0f068321a674034305939e99a511f4250d7550\">bf0f068</a>\n- <a href=\"https://github.com/JarredAllen/number-theory-programs/commit/4954f3020ca06bd0b211c2b28d81944f8702d768\">4954f30</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/25836d92998635c6ed27d0a3c675602f164edb11\">25836d9</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/a76a82ce1978b8929bc92b6520469ebaf9f32211\">a76a82c</a>\n- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/533e04d8060e7405789f891698650fc97ebd6f51\">533e04d</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -52,14 +52,14 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/6070c3b5f580f4353e27d059f3a328d6320d5deb\">6070c3b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/chess/commit/cd486769ec0b3e42e82de98636cd17c9a1e95840\">cd48676</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/6070c3b5f580f4353e27d059f3a328d6320d5deb\">6070c3b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/chess/commit/cd486769ec0b3e42e82de98636cd17c9a1e95840\">cd48676</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/7bba232b9a5291e165bfd0aed63c4764b9f9cf04\">7bba232</a>: Fix formatting and clippy suggestions\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/4ffc86c571f387880d368bebd91f73f488ba3530\">4ffc86c</a>: Fix rendering of cutscene text",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/chess/commit/1abb0464c2a07e79614f6b85d1ab3e05063ab6fe\">1abb046</a>: Fix bug in bishop blocker bitboard generation\n- <a href=\"https://github.com/JarredAllen/chess/commit/b6ff461ee099734aaa7921f4fb37606e66dbe4c5\">b6ff461</a>: Fix bugs/lints in rook magic bitboards",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 168 times)\n2. added (used 67 times)\n3. code (used 56 times)\n4. fix (used 53 times)\n5. work (used 47 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 188 times)\n2. added (used 70 times)\n3. fix (used 68 times)\n4. code (used 67 times)\n5. work (used 48 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/dotfiles/commit/f5ad755aee48b0c9fe63720080ce813e69f65524\">f5ad755</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/chess/commit/54b3a3bf1566aa2efd20ac23b6e77db745075306\">54b3a3b</a>\n- <a href=\"https://github.com/JarredAllen/bit-struct/commit/e086ea6f0b3289dd486307274a12489a23cc8652\">e086ea6</a>\n- <a href=\"https://github.com/JarredAllen/dotfiles/commit/f5ad755aee48b0c9fe63720080ce813e69f65524\">f5ad755</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "leap-day",
     "tier": 0,
     "desc": "Happy February 29th! I committed on a Leap Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/rust-clippy/commit/028cddb95628252180bf6146b445e146dcdef8b2\">028cddb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/rust/commit/028cddb95628252180bf6146b445e146dcdef8b2\">028cddb</a>\n- <a href=\"https://github.com/JarredAllen/rust-clippy/commit/028cddb95628252180bf6146b445e146dcdef8b2\">028cddb</a>",
     "image": "https://my-badges.github.io/my-badges/leap-day.png"
   },
   {
