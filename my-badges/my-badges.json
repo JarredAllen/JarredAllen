@@ -101,7 +101,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 179 times)\n2. added (used 67 times)\n3. code (used 56 times)\n4. fix (used 55 times)\n5. work (used 47 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 183 times)\n2. added (used 67 times)\n3. code (used 56 times)\n4. fix (used 55 times)\n5. work (used 47 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -194,5 +194,12 @@
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/9fa5f686e4a9049a92b70dc68eacda245e38d028\">9fa5f68</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/6e3e221a26870e4848d84b03b50d7d166df5e313\">6e3e221</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/9df1d89e23d9b5cc914ddf46393ac16f94fe68d7\">9df1d89</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/7deccaf07a03e7331fe84a8359bed6fe2ad8947e\">7deccaf</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/c8e8acd6c45c0cae071ae5d89789d8782e5112a6\">c8e8acd</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/b479af59a1156984a3842a6b63d4baaa2c7d01e0\">b479af5</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   }
 ]
