@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/7bba232b9a5291e165bfd0aed63c4764b9f9cf04">7bba232</a>: Fix formatting and clippy suggestions
-- <a href="https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/4ffc86c571f387880d368bebd91f73f488ba3530">4ffc86c</a>: Fix rendering of cutscene text
+- <a href="https://github.com/JarredAllen/type-signature/commit/4c36fcd2162a8b39bfa4395e24d49454ac3fbf91">4c36fcd</a>: Fix incorrect `usize` hashing logic on 128-bit targets
+- <a href="https://github.com/JarredAllen/type-signature/commit/fca2111fed4405b7e3f5896e47457900c61cdb4b">fca2111</a>: Fix reference to atomic types which don't exist on all architectures
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
