@@ -47,5 +47,159 @@
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/JarredAllen/Calculator-Web-Server/commit/af090d81fdcc6c2cd6473afc9447760c25e1ce4d\"><strong>a</strong>f090d81fdcc6c2cd6473afc9447760c25e1ce4d</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/abdf5aff16d4b5ffbfe3e20a11af197d42a30dfd\"><strong>ab</strong>df5aff16d4b5ffbfe3e20a11af197d42a30dfd</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/wordle-assist/commit/d196e29d145c388b3aacc9ccbbcdc31a527fafe2\">d196e29</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/JarredAllen/crafting-interpreters-mycode/commit/c829a6dd7403b1b8c77fadae6444765cdedead86\">c829a6dd7403b1b8c77fadae6444765cde<strong>dead</strong>86</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/dotfiles/commit/f5ad755aee48b0c9fe63720080ce813e69f65524\">f5ad755</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 183 times)\n2. added (used 67 times)\n3. fix (used 57 times)\n4. code (used 56 times)\n5. work (used 47 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/4c36fcd2162a8b39bfa4395e24d49454ac3fbf91\">4c36fcd</a>: Fix incorrect `usize` hashing logic on 128-bit targets\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/fca2111fed4405b7e3f5896e47457900c61cdb4b\">fca2111</a>: Fix reference to atomic types which don't exist on all architectures",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/sqlite-riir/commit/0e6a393e43ab2a0112c27e481428e99948b74765\">0e6a393</a>: Fix token for clippy action\n- <a href=\"https://github.com/JarredAllen/sqlite-riir/commit/e0c9c6a3ff82575b076f80485881b530b9a605e6\">e0c9c6a</a>: Fix YAML errors in rust.yml\n- <a href=\"https://github.com/JarredAllen/sqlite-riir/commit/0c8477c03dce77ae2cf0dcb590afba1b0465b61f\">0c8477c</a>: Fix broken clippy action",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/mqtt-async-client-rs/commit/9cc811f68f4a3c9059165aa423c9208bee9e8683\">9cc811f</a>: Fix intermittent error message on some connections\n\nThe library was logging an error on some messages being sent which\ndidn't listen for a response packet, so this change avoids that\nerror being logged.\n- <a href=\"https://github.com/JarredAllen/mqtt-async-client-rs/commit/1c2e8717699742ff59d97dbd9c55d07ac442bc85\">1c2e871</a>: Fix compile error if used without features\n- <a href=\"https://github.com/JarredAllen/mqtt-async-client-rs/commit/3ed7b3f92bf6d3dc0545db5a6476bf8b49b150ff\">3ed7b3f</a>: Fix issue that slipped into integration test\n- <a href=\"https://github.com/JarredAllen/mqtt-async-client-rs/commit/0731e7cd4dcb8742acb4f1f97a510e4396f86fdc\">0731e7c</a>: Fix port being placed in the wrong location",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/my-badges/commit/1d0e24d1fe51063f3c92ca4e67504b813d49a202\">1d0e24d</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/19b30cccd61e6b8d1ff722f9d62f9dbfcdd5a8ec\">19b30cc</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/a436402261fb7cb07cad3de0ca740f569dc5ed31\">a436402</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/c3f0436bb674d895310fd5dcf4927856587afdef\">c3f0436</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/6af44773e169a8625401b448db3d3ad52f17fdf4\">6af4477</a>\n- <a href=\"https://github.com/JarredAllen/French-Verb-Conjugator-Bot/commit/05c75dcbb937efee18228af462be19cd8b831782\">05c75dc</a>\n- <a href=\"https://github.com/JarredAllen/French-Verb-Conjugator-Bot/commit/10b4680e57ddc8362078e01ab5663f9fc547a6de\">10b4680</a>\n- <a href=\"https://github.com/JarredAllen/French-Verb-Conjugator-Bot/commit/586a539b836909ecda34c72a2fddf62e3cfa993c\">586a539</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/rust-clippy/commit/028cddb95628252180bf6146b445e146dcdef8b2\">028cddb</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/6070c3b5f580f4353e27d059f3a328d6320d5deb\">6070c3b</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/6070c3b5f580f4353e27d059f3a328d6320d5deb\">6070c3b</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/9fa5f686e4a9049a92b70dc68eacda245e38d028\">9fa5f68</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/6e3e221a26870e4848d84b03b50d7d166df5e313\">6e3e221</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/9df1d89e23d9b5cc914ddf46393ac16f94fe68d7\">9df1d89</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/7deccaf07a03e7331fe84a8359bed6fe2ad8947e\">7deccaf</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/c8e8acd6c45c0cae071ae5d89789d8782e5112a6\">c8e8acd</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/b479af59a1156984a3842a6b63d4baaa2c7d01e0\">b479af5</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/multiagent/commit/382057dfa0c6d350b23fa18d75a56bd71516510c\">382057d</a>\n- <a href=\"https://github.com/JarredAllen/multiagent/commit/9a6a23191c48da313c8d77c452a975acf38edfb0\">9a6a231</a>\n- <a href=\"https://github.com/JarredAllen/multiagent/commit/8ba77edc54465726404a9f0a56c9dd500fea53d9\">8ba77ed</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/4e12ceffe0ad0e13644fb5558272131586c45ad6\">4e12cef</a>",
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/dotfiles/commit/855853e87aaaaa511825b461a46a4bd355b57d56\">855853e</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/6d140e31a53c5e1f3217b74b7e928bcc0535fc63\">6d140e3</a>\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/3898ae4136455246863be178ba5c4ee2b2862401\">3898ae4</a>\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/02f65b70ca926f306b161c59d37ee704b47f5750\">02f65b7</a>\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/96e445b1f66c494b8b0d7a23a22841ee4f3c472b\">96e445b</a>\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/4e12ceffe0ad0e13644fb5558272131586c45ad6\">4e12cef</a>\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/11c65594f97c880b4ebac9b45306fb033cf85ac7\">11c6559</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AaronShah2/SGDA_Game_Jam_Proj/commit/652e2e44076924848699183a6ccf755f9513ea92\">652e2e4</a>\n- <a href=\"https://github.com/JarredAllen/EncryptionCracker---APCSP-Create-Task/commit/f71aee995e98356e63fb9f3e90e0e64ceeb3fb13\">f71aee9</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/bba21ad18a7e801c9828cd6684313046f3084271\">bba21ad</a>\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/073d794443c76deebbebcc81bd621fc43bcef68e\">073d794</a>\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/23d46cf8d2b508e3fa214b8f6bc20b3380d1e51e\">23d46cf</a>\n- <a href=\"https://github.com/JarredAllen/jarss/commit/5e504c06a446897cc6a3e11f0bf7b474e742365c\">5e504c0</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/19b30cccd61e6b8d1ff722f9d62f9dbfcdd5a8ec\">19b30cc</a>\n- <a href=\"https://github.com/JarredAllen/rust-locks/commit/a436402261fb7cb07cad3de0ca740f569dc5ed31\">a436402</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/832d3456d013effcef64ca27b0ccfefd411dc109\">832d345</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/72481cbfdb6d607f4804a404b6a687b32098e1da\">72481cb</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/cc6e89d1a839f6b022442203845a4bdb26b160ef\">cc6e89d</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/366e2697b1d014de1cf0e2afe33846bea31e7806\">366e269</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/8febf0e68341009192707209d8705f3f7e1c95cd\">8febf0e</a>\n- <a href=\"https://github.com/JarredAllen/type-signature/commit/d71dabf72a924a9c2d43dad872356eeccc0f40dc\">d71dabf</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JarredAllen/rust-os/commit/de7328c71cd8d36b9dbdc0bab7252abbaec3f016\">de7328c</a>\n- <a href=\"https://github.com/JarredAllen/number-theory-programs/commit/4954f3020ca06bd0b211c2b28d81944f8702d768\">4954f30</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/25836d92998635c6ed27d0a3c675602f164edb11\">25836d9</a>\n- <a href=\"https://github.com/JarredAllen/pokemon-kernel-device/commit/a76a82ce1978b8929bc92b6520469ebaf9f32211\">a76a82c</a>\n- <a href=\"https://github.com/JarredAllen/AutomatedGradesChecker/commit/533e04d8060e7405789f891698650fc97ebd6f51\">533e04d</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]
