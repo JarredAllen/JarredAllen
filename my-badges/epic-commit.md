@@ -4,8 +4,6 @@
 
 Commits:
 
-- <a href="https://github.com/JarredAllen/chess/commit/54b3a3bf1566aa2efd20ac23b6e77db745075306">54b3a3b</a>
-- <a href="https://github.com/JarredAllen/bit-struct/commit/e086ea6f0b3289dd486307274a12489a23cc8652">e086ea6</a>
 - <a href="https://github.com/JarredAllen/dotfiles/commit/f5ad755aee48b0c9fe63720080ce813e69f65524">f5ad755</a>
 
 
