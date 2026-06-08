@@ -4,7 +4,6 @@
 
 Commits:
 
-- <a href="https://github.com/JarredAllen/rust/commit/028cddb95628252180bf6146b445e146dcdef8b2">028cddb</a>
 - <a href="https://github.com/JarredAllen/rust-clippy/commit/028cddb95628252180bf6146b445e146dcdef8b2">028cddb</a>
 
 
